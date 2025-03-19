@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on: Flutter, Firebase, Supabase,and Python machine  learning projects.<br><br>Looking to collaborate on: Mobile app development, cloud services, and machine learning projects.<br><br>Looking for help: Seeking guidance in Flutter, Firebase, Supabase, and machine learning.<br><br>Currently learning: Advanced Flutter, Firebase, Supabase, and machine learning techniques.<br><br>Ask me about: Flutter development, Firebase, Supabase integration, Python machine learning, or software development.<br><br>Fun fact about me: I am insomniac
+Currently working on: Flutter, Firebase, Supabase, and Python machine  learning projects.<br><br>Looking to collaborate on: Mobile app development, cloud services, and machine learning projects.<br><br>Looking for help: Seeking guidance in Flutter, Firebase, Supabase, and machine learning.<br><br>Currently learning: Advanced Flutter, Firebase, Supabase, and machine learning techniques.<br><br>Ask me about: Flutter development, Firebase, Supabase integration, Python machine learning, or software development.<br><br>Fun fact about me: I am insomniac
 
 
 ## 🌐 Socials:
