@@ -1,6 +1,5 @@
 # 💫 About Me:
-Currently working on: Flutter, Firebase, Supabase, and Python machine  learning projects.<br><br>Looking to collaborate on: Mobile app development, cloud services, and machine learning projects.<br><br>Looking for help: Seeking guidance in Flutter, Firebase, Supabase, and machine learning.<br><br>Currently learning: Advanced Flutter, Firebase, Supabase, and machine learning techniques.<br><br>Ask me about: Flutter development, Firebase, Supabase integration, Python machine learning, or software development.<br><br>Fun fact about me: I am insomniac
-
+Currently working on: Machine learning, deep learning, computer vision, and large language model (LLM) projects, with a strong focus on healthcare innovation. <br><br>Looking to collaborate on: AI-driven solutions, healthcare technology, and integrating machine learning in real-world applications. <br><br>Looking for help: Seeking guidance in advanced machine learning techniques and the integration of LLMs for intelligent decision-making. <br><br>Currently learning: Advanced AI techniques, especially in machine learning, LLMs, and computer vision for healthcare. <br><br>Ask me about: Machine learning, deep learning, computer vision, LLMs, and healthcare innovation.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafay_khokhar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafay-khokhar-54ba30234/)
